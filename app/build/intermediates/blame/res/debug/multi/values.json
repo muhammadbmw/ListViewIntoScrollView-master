@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 52,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 75,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 75,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 61,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 245,
+                        "endColumn": 62,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 59,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 75,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 7,
+                        "startOffset": 310,
+                        "endColumn": 78,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 782
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 787,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "C:\\Users\\BreezeMaxWeb\\Downloads\\bottom-navigation-demo-master\\ListViewIntoScrollView-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
